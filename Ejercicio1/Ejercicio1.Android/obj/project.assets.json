@@ -3177,11 +3177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.Android\\Ejercicio1.Android.csproj",
+      "projectUniqueName": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.Android\\Ejercicio1.Android.csproj",
       "projectName": "Ejercicio1.Android",
-      "projectPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.Android\\Ejercicio1.Android.csproj",
+      "projectPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.Android\\Ejercicio1.Android.csproj",
       "packagesPath": "C:\\Users\\lener.quiroz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.Android\\obj\\",
+      "outputPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3198,8 +3198,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
-              "projectPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj"
+            "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
+              "projectPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj"
             }
           }
         }

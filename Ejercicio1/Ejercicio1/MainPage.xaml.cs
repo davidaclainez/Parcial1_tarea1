@@ -17,25 +17,25 @@ namespace Ejercicio1
 
         private async void btnSumar_Clicked(object sender, EventArgs e)
         {
-            var respuesta = Convert.ToInt32(firtNumber.Text) + Convert.ToInt32(secondNumber.Text);
+            var respuesta = Convert.ToDouble(firtNumber.Text) + Convert.ToDouble(secondNumber.Text);
             await Navigation.PushAsync(new SecondPage(respuesta));
         }
 
         private async void btnRestar_Clicked(object sender, EventArgs e)
         {
-            var respuesta = Convert.ToInt32(firtNumber.Text) - Convert.ToInt32(secondNumber.Text);
+            var respuesta = Convert.ToDouble(firtNumber.Text) - Convert.ToDouble(secondNumber.Text);
             await Navigation.PushAsync(new SecondPage(respuesta));
         }
 
         private async void btnMultiplicar_Clicked(object sender, EventArgs e)
         {
-            var respuesta = Convert.ToInt32(firtNumber.Text) * Convert.ToInt32(secondNumber.Text);
+            var respuesta = Convert.ToDouble(firtNumber.Text) * Convert.ToDouble(secondNumber.Text);
             await Navigation.PushAsync(new SecondPage(respuesta));
         }
 
         private async void btnDividir_Clicked(object sender, EventArgs e)
         {
-            var respuesta = Convert.ToInt32(firtNumber.Text) / Convert.ToInt32(secondNumber.Text);
+            var respuesta = Convert.ToDouble(firtNumber.Text) / Convert.ToDouble(secondNumber.Text);
             await Navigation.PushAsync(new SecondPage(respuesta));
         }
     }

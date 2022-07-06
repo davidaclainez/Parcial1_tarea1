@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "be8a1K7x8k9V41kXSdmKQ+DqMHuvUrC5NhTcvzOPqGCf2bK7ThjEDSPyas8m2ZlD8yg0u+aY09CothaAW0Zoqw==",
+  "dgSpecHash": "kYn4pWeB1ZkBi5n03zPKPRJQcReNWp2y2xBhN0NjhS09jUEgKzwF/3amlzfcMNC1ffNIy4FlaostzKc1pqQ1UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
+  "projectFilePath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lener.quiroz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lener.quiroz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

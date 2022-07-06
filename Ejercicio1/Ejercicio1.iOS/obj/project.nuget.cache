@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Z0UQ5Ujxcxdvkovsvv4OQeWm7TWyirMdG+CPfqVRg3ts5RolFY6sqUFkk1kgtD2D3UIbk1/sa1C1F1nnsNU/g==",
+  "dgSpecHash": "so3y87+bf0ZD1gM5nc+A2650cSZL+QD2wiXH03ZSqzJMnjFKEgyAxSBLCX1rTpsC6cwCJt9XC0zW2yk6YJnIQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
+  "projectFilePath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lener.quiroz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\lener.quiroz\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

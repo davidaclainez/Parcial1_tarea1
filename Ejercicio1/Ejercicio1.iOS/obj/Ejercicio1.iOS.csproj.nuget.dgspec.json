@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj": {}
+    "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj": {
+    "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
         "projectName": "Ejercicio1.iOS",
-        "projectPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
+        "projectPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
         "packagesPath": "C:\\Users\\lener.quiroz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\obj\\",
+        "outputPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
-                "projectPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj"
+              "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
+                "projectPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
+    "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
         "projectName": "Ejercicio1",
-        "projectPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
+        "projectPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj",
         "packagesPath": "C:\\Users\\lener.quiroz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\obj\\",
+        "outputPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lener.quiroz\\AppData\\Roaming\\NuGet\\NuGet.Config",

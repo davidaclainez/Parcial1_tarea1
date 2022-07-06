@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TJQM7IZchF3NR+NWO2FM78HRNrQTqYhZeogEVLEYUxFhRcD1N95Lk23AtXaSvC7YmEbDn5zA8nMKIebAF3EgyA==",
+  "dgSpecHash": "k0II+dZmqViICW0buO1JlkKbdjhulg2b6gthF+OzxR8LrPQeTbGfWPoClZ+WWQNVNmiGDp1+Pur8Btvw7FYR1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.Android\\Ejercicio1.Android.csproj",
+  "projectFilePath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.Android\\Ejercicio1.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lener.quiroz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\lener.quiroz\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

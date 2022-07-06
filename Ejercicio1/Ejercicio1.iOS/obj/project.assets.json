@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
       "projectName": "Ejercicio1.iOS",
-      "projectPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
+      "projectPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\Ejercicio1.iOS.csproj",
       "packagesPath": "C:\\Users\\lener.quiroz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1.iOS\\obj\\",
+      "outputPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1008,8 +1008,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
-              "projectPath": "C:\\Users\\lener.quiroz\\source\\repos\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj"
+            "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj": {
+              "projectPath": "C:\\Users\\lener.quiroz\\source2\\Parcial1_tarea1\\Ejercicio1\\Ejercicio1\\Ejercicio1.csproj"
             }
           }
         }

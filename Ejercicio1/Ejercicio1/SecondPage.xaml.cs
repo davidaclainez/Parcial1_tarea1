@@ -12,7 +12,7 @@ namespace Ejercicio1
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SecondPage : ContentPage
     {
-        public SecondPage(int varResp)
+        public SecondPage(double varResp)
         {
             InitializeComponent();
             resp.Text = varResp.ToString();
